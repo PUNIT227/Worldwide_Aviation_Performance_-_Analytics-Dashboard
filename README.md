@@ -46,7 +46,7 @@ This dashboard consolidates worldwide airline data into a single Power BI report
 
 | Executive Overview | Financial Performance |
 |---|---|
-| ![Executive Overview](https://github.com/PUNIT227/Worldwide_Aviation_Performance_-_Analytics-Dashboard/blob/main/executive%20Overview.png) | ![Financial Performance]([screenshots/page2.png](https://github.com/PUNIT227/Worldwide_Aviation_Performance_-_Analytics-Dashboard/blob/main/financial%20Performance.png)) |
+| ![Executive Overview](https://github.com/PUNIT227/Worldwide_Aviation_Performance_-_Analytics-Dashboard/blob/main/executive%20Overview.png) | ![Financial Performance](https://github.com/PUNIT227/Worldwide_Aviation_Performance_-_Analytics-Dashboard/blob/main/financial%20Performance.png)) |
 
 | Passanger Traffic | Route Performance |
 |---|---|
